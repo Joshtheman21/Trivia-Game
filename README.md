@@ -1,1 +1,1 @@
-# Trivia-Game
+# This program uses API integration, Tkinter package module, OOP programming, and my favorite, Python. I created this trivia application to work more and understand how to use API's and OOP. Also, I was bored lol and said why not. The user is faced with 10 trivia questions, if guessed right the screen will turn green and give you a point, but if wrong no point and screen turns red. The difficulty of these questions are medium. Also, Trivia DB is where I got the API information. 
